@@ -1,2 +1,1 @@
-# Relational_DB_design
-Relational Database Design
+Converting a relational design that enlists various users, their roles, user accounts, and their statuses into different tables in the SQL server and inserted data into. This was done to define relations/attributes, primary keys and foreign keys. The data was then deleted but the tables were saved for future analysis.
